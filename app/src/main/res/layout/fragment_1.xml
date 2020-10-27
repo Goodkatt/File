@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context=".Fragment1">
+
+
+
+
+    <TextView
+        android:textSize="36sp"
+        android:text="Sebze"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/icon"
+            android:layout_marginLeft="20dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/icon"
+            android:layout_marginLeft="20dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/icon"
+            android:layout_marginLeft="20dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/icon"
+            android:layout_marginLeft="20dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/icon"
+            android:layout_marginLeft="20dp"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+        <ImageView
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/icon"
+            android:layout_width="96dp"
+            android:layout_height="96dp">
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/ic_shopping"
+
+        android:title="siprais">
+    </item>
+
+    <item
+
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_shopping"
+
+        android:title="setting">
+    </item>
+    <item
+
+        android:icon="@drawable/ic_shopping"
+
+        android:title="kampnaya">
+    </item>
+    <item
+
+        android:icon="@drawable/ic_shopping"
+
+        android:title="asdasd">
+    </item>
+</menu>
